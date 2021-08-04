@@ -1,0 +1,15 @@
+Year_Of_Experience,Gender,Salary
+0,Male ,0
+0,Female,0
+0.5,Male ,10000
+0.8,Female,14000
+1,Female,20000
+0.5,Male ,10000
+2,Male ,40000
+1.5,Male ,28000
+2,,45000
+2.5,Male ,55000
+0.3,Male ,10000
+2,Male ,60000
+3,Female,100000
+100,Male ,5000000000000000
